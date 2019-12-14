@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-
+![passed](https://video.udacity-data.com/topher/2019/May/5cda259e_screen-shot-2019-05-13-at-7.19.00-pm/screen-shot-2019-05-13-at-7.19.00-pm.png)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
@@ -33,6 +32,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 1. Standalone:  `python app.py`
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
+4. To obtain the prediction output from the ml flow, run `./make_prediction.sh`.  
 
 ### Kubernetes Steps
 
