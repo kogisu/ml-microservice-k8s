@@ -1,4 +1,4 @@
-![CircleCI](https://circleci.com/gh/kogisu/ml-microservice-k8s.svg?style=svg)
+[![CircleCI](https://circleci.com/gh/kogisu/ml-microservice-k8s.svg?style=svg)](https://circleci.com/gh/kogisu/ml-microservice-k8s)
 
 ## Project Overview
 
